@@ -1,7 +1,10 @@
-echo "# Hello" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ligmaenigma56/Hello.git
-git push -u origin main
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>HI!</title>
+</head>
+<body>
+    
+</body>
+</html>
